@@ -1,0 +1,5 @@
+﻿event_id,event_name,venue,date,total_seats,available_seats
+EVT001,TechFest 2026,Main Auditorium,2026-11-15,200,145
+EVT002,Cultural Night,Open Air Theatre,2026-11-20,300,82
+EVT003,AI Innovation Summit,Seminar Hall,2026-11-25,100,37
+EVT004,Coding Hackathon,Computer Lab,2026-12-01,80,12
